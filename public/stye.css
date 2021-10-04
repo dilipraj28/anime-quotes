@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.nav-parent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+ /* border: 1px solid white; */
+  margin: 40px 50px;
+}
+
+.animeLogo {
+  font-family: "Josefin Sans", serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.animeHash {
+  font-family: "Josefin Sans", serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.quote-container {
+  padding: 50px;
+}
+
+.quote {
+  font-size: 5rem;
+  font-family: 'Birthstone', cursive;
+  
+}
+.said {
+  font-size: 1.75rem;
+  font-family: "Josefin Sans", serif;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.anime{
+  font-size: 2rem;
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Metal Mania', cursive; */
+  font-family: 'Akronim', cursive;
+  font-weight: bold;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.button{
+  margin-left: 100px;
+  align-content: center;
+  margin-left: 40%;
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid white;
+  margin: 0 0.3em 0.3em 0;
+  box-sizing: border-box;
+  text-align: center;
+  transition: all .2s;
+}
+#refbtn {
+    text-align: right;
+    /* height: 100px; */
+    /* width: 100%; */
+    /* z-index: 100; */
+    position: fixed;
+    bottom: 10%;
+    /* right: 0; */
+    left: 49%;
+    right: 48%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    font-size: 19px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#refbtn:hover{
+    background-color: rgb(197, 194, 194);
+}
