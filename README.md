@@ -7,9 +7,9 @@ Anime-quotes is a webpage which gives random quotes using animeApi
 ## Check Out the Webpage
 click here 👇
 
-https://anime-quotes-dcbca.web.app/
+https://anime-quotes-dcbca.web.app/ 
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used 
 HTML, CSS and JavaScript
 
 ## Screenshots
