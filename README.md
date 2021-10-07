@@ -13,6 +13,6 @@ https://anime-quotes-dcbca.web.app/
 HTML, CSS and JavaScript
 
 ## Screenshots
-* Choose the category for whome you want to calculate the SGPA(Semester Grade Point Average) precisely.
+
 
 ![Home Page - Select Category](/screenshot/main-page.png?raw=true "Quotes")
