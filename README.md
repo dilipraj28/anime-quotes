@@ -16,3 +16,5 @@ HTML, CSS and JavaScript
 
 
 ![Home Page - Select Category](/screenshot/main-page.png?raw=true "Quotes")
+
+## Thankyou, hope you enjoy it !
