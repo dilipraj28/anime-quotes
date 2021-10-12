@@ -2,7 +2,8 @@
 
 
 ## Description
-Anime-quotes is a webpage which gives random quotes using animeApi
+Anime-quotes is a webpage which gives random quotes using animeApi <a href="https://en.wikipedia.org/wiki/API" target="_blank"> click here to know about API </a>
+
 
 ## Check Out the Webpage
 click here 👇
